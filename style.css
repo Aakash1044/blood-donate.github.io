@@ -244,7 +244,7 @@
  /*-----process-----*/
  .process{
    min-height: 1700px;
-   width: 700px;
+   width: 100%;
    color: black;
    margin: auto;
  }
@@ -253,7 +253,7 @@
    padding-top: 20px;
 }
 .donprocess h1{
-   font-size: 36px;
+   font-size: 66px;
    font-weight: 600;
 }
 .donprocess p{
@@ -263,12 +263,10 @@
    
 }
 .vr{
-   border-left: 6px solid #1A1A1D;
+   border-left: 3px solid #1A1A1D;
    border-radius: 1px;
    height: 600px;
-   position: relative;
-   top: 50%;
+   position: absolute;
+   top: 125%;
    left: 50%;
-   right: 50%;
-   bottom: 50%;
 }
