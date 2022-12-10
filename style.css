@@ -105,24 +105,6 @@
     font-size: 28px;
     color: white;
  }
- /*-----process-----*/
-.process{
-    color: black;
-    width: 80%;
-    margin: auto;
-    text-align: center;
-    padding-top: 80px;
-}
-.process h1{
-    font-size: 36px;
-    font-weight: 600;
-}
-.process p{
-    font-size: 14px;
-    font-weight: 300;
-    line-height: 22px;
-    padding: 10px;
-}
 .nav2{
     display: flex;
     justify-content: center;
@@ -259,3 +241,34 @@
  .quote span{
    color: #ff004c;
  }
+ /*-----process-----*/
+ .process{
+   min-height: 1700px;
+   width: 700px;
+   color: black;
+   margin: auto;
+ }
+.donprocess{
+   text-align: center;
+   padding-top: 20px;
+}
+.donprocess h1{
+   font-size: 36px;
+   font-weight: 600;
+}
+.donprocess p{
+   font-size: 16px;
+   font-weight: 300;
+   line-height: 22px;
+   
+}
+.vr{
+   border-left: 6px solid #1A1A1D;
+   border-radius: 1px;
+   height: 600px;
+   position: relative;
+   top: 50%;
+   left: 50%;
+   right: 50%;
+   bottom: 50%;
+}
