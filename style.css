@@ -387,3 +387,63 @@
    position: relative;
    align-items: center;
 }
+.button2 button:active{
+   background-color: white;
+   color: #1A1A1D;
+}
+.wheredon{
+   min-height: 250px;
+   width: 100%;
+   background-color: #1A1A1D;
+   margin: auto;
+}
+.form3 form label{
+   flex-direction: column;
+   display: flex;
+   color: #ff004c;
+   text-align: left;
+   font-size: 50px;
+   font-weight: 600;
+}
+.form3 form input{
+   width: 1250px;
+   padding: 10px;
+   border: 1px solid #ff004c;
+   background: #1A1A1D;
+   border-radius: 5px;
+   outline: none;
+   color: #fff;
+   font-size: 1em;
+   margin: 5px 0px 0px 0px;
+}
+.form3 form{
+   position: absolute;
+   left: 5%;
+   top: 55px;
+}
+.form3 form input::placeholder{
+   color: #4E4E50;
+}
+.form3{
+   position: relative;
+}
+.button3 button{
+   background-color: #ff004c;
+   border: none;
+   color: white;
+   padding: 11px 50px;
+   border-radius: 5px;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+   position: absolute;
+   top: 136.2px;
+   left: 1187px;
+}
+.button3{
+   position: relative;
+}
+.button3 button:active{
+   background-color: white;
+   color: #1A1A1D;
+}
