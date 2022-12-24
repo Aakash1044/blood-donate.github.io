@@ -839,3 +839,18 @@
 .atprocess h3{
    line-height: 70px;
 }
+.dnprocess{
+   text-align: center;
+   padding-top: 30px;
+   color: #ff004c;
+   background-color: #1A1A1D;
+}
+.dnprocess h1{
+   font-size: 70px;
+   font-weight: 600;
+}
+.dnprocess p{
+   font-size: 25px;
+   font-weight: 200;
+   padding-bottom: 50px;
+}
