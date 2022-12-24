@@ -247,6 +247,7 @@
    width: 100%;
    color: black;
    margin: auto;
+   position: relative;
  }
 .donprocess{
    text-align: center;
@@ -288,7 +289,7 @@
 .donprocess h4{
    font-size: 43px;
    position: absolute;
-   top: 358%;
+   top: 96%;
    left: 50%;
    transform: translate(-50%,-50%);
    color: #ff004c;
