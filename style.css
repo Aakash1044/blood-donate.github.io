@@ -813,3 +813,28 @@
    font-size: 15px;
    cursor: pointer;
 }
+.atprocess{
+   padding-left: 55px;
+   padding-right: 500px;
+   padding-top: 50px;
+   color: #1A1A1D;
+}
+.atprocess h2{
+   font-size: 40px;
+   line-height: 70px;
+   font-weight: 600;
+}
+.atprocess ul{
+   padding-left: 60px;
+   font-size: 17px;
+   line-height: 35px;
+   font-weight: 400;
+}
+.atprocess p{
+   padding-left: 20px;
+   line-height: 35px;
+   font-weight: 400;
+}
+.atprocess h3{
+   line-height: 70px;
+}
