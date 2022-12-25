@@ -812,6 +812,7 @@
    color: #182628;
    padding-bottom: 50px;
    background-color: #E3E2DF;
+   position: relative;
 }
 .atprocess h2{
    font-size: 40px;
@@ -846,4 +847,24 @@
    font-size: 25px;
    font-weight: 200;
    padding-bottom: 50px;
+}
+.ytvid{
+   position: absolute;
+   top: 17.5%;
+   left: 65%;
+}
+.ytvid1{
+   position: absolute;
+   top: 42.5%;
+   left: 65%;
+}
+.ytvid2{
+   position: absolute;
+   top: 67.5%;
+   left: 65%;
+}
+.atprocess iframe{
+   position: absolute;
+   top: 15%;
+   left: 64.25%;
 }
