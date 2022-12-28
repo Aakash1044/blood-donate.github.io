@@ -835,7 +835,8 @@
 }
 .dnprocess{
    text-align: center;
-   padding-top: 30px;
+   padding-top: 3px;
+   padding-bottom: 20px;
    color: #ff004c;
    background-color: #1A1A1D;
 }
@@ -867,4 +868,135 @@
    position: absolute;
    top: 15%;
    left: 64.25%;
+}
+.ratio{
+   width: 100%;
+   height: 600px;
+   background-color: #E3E2DF;
+   position: relative;
+}
+.ratio1{
+   padding: 20px;
+   position: relative;
+   z-index: 2;
+}
+.ratio1 h1{
+   font-size: 40px;
+}
+.ratio1 form label{
+   flex-direction: column;
+   display: flex;
+   color: #182628;
+   text-align: left;
+   font-size: 30px;
+   font-weight: 600;
+}
+.ratio1 form input{
+   width: 270px;
+   padding: 10px;
+   border: 1px solid #182628;
+   background: transparent;
+   border-radius: 5px;
+   outline: none;
+   color: #182628;
+   font-size: 1em;
+   margin: 5px 0px 10px 0px;
+}
+.ratio1 form{
+   position: absolute;
+   padding: 30px 13%;
+}
+.ratio1 form input::placeholder{
+   color: #4E4E50;
+}
+.ratio1 button{
+   background-color: #182628;
+   border: none;
+   color: white;
+   padding: 11px 50px;
+   border-radius: 5px;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 16px;
+   margin-top: 20px;
+   margin-left: 50px;
+}
+.ratinfo{
+   position: absolute;
+   color: #182628;
+   padding-left: 55%;
+   top: 180px;
+   z-index: 1;
+}
+.ratinfo h1{
+   font-size: 50px;
+   margin-bottom: 5px;
+   font-weight: 400;
+}
+.ratinfo p{
+   font-size: 30px;
+   margin-bottom: 40px;
+   line-height: 40px;
+}
+.ratinfo button:active{
+   background-color: white;
+   color: #1A1A1D;
+}
+.friend{
+   position: relative;
+}
+.friend h1{
+   font-size: 70px;
+   color: #ff004c;
+   text-align: center;
+   position: relative;
+   top: 5%;
+   margin-top: 25px;
+}
+.finfo{
+   position: absolute;
+   top: 36%;
+   left: 12%;
+}
+.finfo h1{
+   color: #ff004c;
+   font-size: 40px;
+}
+.finfo p{
+   color: #fff;
+   margin-right: 990px;
+   font-size: 22px;
+}
+.fform form input {
+   width: 500px;
+   height: 45px;
+   border-radius: 4px;
+   text-align: center;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   outline: none;
+   border: 3px solid #950740;
+   background-color: #fff;
+   color: #182628;
+}
+.fform form button{
+   background: transparent;
+   border: 2px solid #950740;
+   color: #fff;
+   border-radius: 30px;
+   padding: 10px 30px;
+   font-size: 15px;
+   cursor: pointer;
+   position: absolute;
+   left: 30%;
+}
+.fform{
+   position: absolute;
+   left: 52%;
+   top: 67%;
+}
+.anime{
+   position: absolute;
+   left: 55%;
+   top: 22%;
 }
