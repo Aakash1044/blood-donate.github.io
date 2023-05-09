@@ -6,7 +6,7 @@
  .header{
     min-height: 100vh;
     width: 100%;
-    background-color: #1A1A1D;
+    background-color: black;
     background-size: cover;
     background-position: center;
  }
@@ -290,7 +290,7 @@
 .findonor{
    min-height: 800px;
    width: 100%;
-   background-color: #1A1A1D;
+   background-color: black;
    margin: auto;
 }
 .head{
@@ -384,7 +384,7 @@
 .wheredon{
    min-height: 250px;
    width: 100%;
-   background-color: #1A1A1D;
+   background-color: black;
    margin: auto;
 }
 .form3 form label{
@@ -441,7 +441,7 @@
 .header1{
    min-height: 150px;
    width: 100%;
-   background-color: #1A1A1D;
+   background-color: black;
    background-size: cover;
    background-position: center;
 }
@@ -478,7 +478,7 @@
    width: 100%;
    height: 500px;
    position: relative;
-   background-color: #1A1A1D;
+   background-color: black;
 }
 .loinfo form1 label{
    flex-direction: column;
@@ -543,7 +543,7 @@
 .doninfo{
    width: 100%;
    height: 500px;
-   background-color: #1A1A1D;
+   background-color: black;
    position: relative;
 }
 .doninfo form1 label{
@@ -623,7 +623,7 @@
 .coinfo{
    width: 100%;
    height: 700px;
-   background-color: #1A1A1D;
+   background-color: black;
    position: relative;
 }
 .coinfo form1 label{
@@ -793,7 +793,7 @@
    margin-bottom: 40px;
    outline: none;
    border: 3px solid #950740;
-   background-color: #1A1A1D;
+   background-color: black;
    color: white;
 }
 .col-2 form button{
@@ -838,7 +838,7 @@
    padding-top: 3px;
    padding-bottom: 20px;
    color: #ff004c;
-   background-color: #1A1A1D;
+   background-color: black;
 }
 .dnprocess h1{
    font-size: 70px;
@@ -910,7 +910,7 @@
    color: #4E4E50;
 }
 .ratio1 button{
-   background-color: #182628;
+   background-color: black;
    border: none;
    color: white;
    padding: 11px 50px;
